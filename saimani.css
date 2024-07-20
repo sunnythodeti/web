@@ -1,0 +1,75 @@
+.sai{
+    color:bisque;
+     background-color: black;
+    display:flex;
+    flex-direction:row;   
+
+    justify-content:space-between;
+
+    
+    
+}
+.right{
+    padding-right:30px;
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    justify-content:space-between;
+}
+.active{
+    padding:10px;
+}
+.car{
+    height:100px;
+    width:100px;
+    border-radius:100%;
+    align-items:center;
+    
+}
+.left{
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    justify-content:space-between;
+
+
+}
+.ak{
+    background-image:url("https://res.cloudinary.com/dmgvrp7ai/image/upload/e_improve,w_300,h_600,c_thumb,g_auto/v1721396823/pngtree-futuristic-shape-abstract-background-chemistry-technology-concept-for-website-image_438818_xgxyeb.jpg");
+    
+}
+.sw{
+    padding-left:50px;
+    background-image:url("https://res.cloudinary.com/dmgvrp7ai/image/upload/v1721405186/wp2610925_pp8cwh.jpg");
+    border:solid 1px gold;
+    margin-left:200px;
+    
+    
+    
+    
+
+    
+    
+    border-radius:50px;
+
+    width:300px; height:400px;
+    
+    
+    
+}
+.skr{
+    height:50px;
+    width:50px;
+    padding-left:200px;
+    
+}
+.int{
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+}
+.mani{
+    border:solid 2px goldenrod;
+    background-color: rgb(76, 248, 8);
+    height:50px; width: 150px;
+}
